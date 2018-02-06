@@ -8,7 +8,7 @@ public class k1 {
 		
 		
 		System.out.println("Zdr ot bug1234");
-		
+		System.out.println("sistemata");
 		
 	}
 
