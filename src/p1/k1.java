@@ -1,4 +1,4 @@
-package p1;
+ chekvamepackage p1;
 
 public class k1 {
 	
